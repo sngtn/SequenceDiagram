@@ -10,6 +10,14 @@ logic is available as a component which can be
 
 ## Examples
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 ### Simple Usage
 
 <img src="screenshots/SimpleUsage.png" alt="Simple Usage preview" width="200" align="right" />
